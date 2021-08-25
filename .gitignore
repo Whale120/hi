@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+#include<bits/stdc++.h>
+using namespace std;
